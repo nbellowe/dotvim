@@ -12,6 +12,7 @@ Bundle 'gmarik/vundle'
 
 " General
 if count(g:vundles, 'general')
+  Bundle 'altercation/vim-colors-solarized'
   Bundle 'scrooloose/nerdtree'
   Bundle 'chriskempson/base16-vim'
   Bundle 'YankRing.vim'
