@@ -91,3 +91,5 @@ inoremap <Esc>B <down>
 inoremap <Esc>C <right>
 inoremap <Esc>D <left>
 
+" end highlight after search.
+nnoremap <silent> <esc> :noh<cr><esc>
